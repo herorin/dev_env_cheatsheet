@@ -209,6 +209,12 @@ brew cask install skype
 brew cask install caffeine
 ```
 
+### editor
+
+```shell
+brew cask install atom
+```
+
 ### IDE
 
 ```shell
@@ -220,6 +226,7 @@ brew cask install android-studio
 
 ```shell
 brew cask install dbeaver-community
+brew cask install mysqlworkbench
 ```
 
 ### Forklift（sftpクライアント）
